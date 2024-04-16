@@ -1,0 +1,162 @@
+/* Place CSS styles here */
+body{
+background-color: rgb(31, 31, 31);
+color: #faebd7;
+}
+
+div.Everything {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 100px;
+    margin-left: 100px;
+}
+
+div.cuadradito-A {
+    position: relative;
+    left: 700px;
+    width: 330px;
+    padding: 20px;
+    border: 15px solid #faebd7;
+}
+
+div.cuadradito-B {
+    position: static;
+    left: 40px;
+    width: 400px;
+    padding: 20px;
+    border: 15px solid #faebd7;
+}
+
+ul.typefaces {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+p {
+    font-family: "futura-pt", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.Title {  
+    font-family: "futura-pt", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    
+}
+.Light {
+    font-family: "futura-pt", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+} 
+.Light-Italic{
+    font-family: "futura-pt", sans-serif;
+    font-weight: 300;
+    font-style: italic;
+} 
+.Book {
+    font-family: "futura-pt", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.Book-Italic {
+    font-family: "futura-pt", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+}
+.Medium {
+    font-family: "futura-pt", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+.Medium-Italic {
+    font-family: "futura-pt", sans-serif;
+    font-weight: 500;
+    font-style: italic;
+}
+.Demi {
+    font-family: "futura-pt", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+}
+.Demi-Italic {
+    font-family: "futura-pt", sans-serif;
+    font-weight: 600;
+    font-style: italic;
+}
+.Heavy {  
+    font-family: "futura-pt", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+.Heavy-Italic {  
+    font-family: "futura-pt", sans-serif;
+    font-weight: 700;
+    font-style: italic;
+}
+
+.Bold {  
+    font-family: "futura-pt-bold", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+.Bold-Italic {  
+    font-family: "futura-pt-bold", sans-serif;
+    font-weight: 700;
+    font-style: italic;
+}
+
+.Extra-Bold {  
+    font-family: "futura-pt", sans-serif;
+    font-weight: 800;
+    font-style: normal;
+    letter-spacing: .5px;
+}
+.Extra-Bold-Italic {  
+    font-family: "futura-pt", sans-serif;
+    font-weight: 800;
+    font-style: italic;
+}
+
+
+
+ div.typefaces-list {
+
+    position: relative;
+    left: 500px;
+    background-color: rgb(31, 31, 31);
+    width: 500px;
+    border: 15px solid #faebd7;
+    padding: 20px;
+    margin: 20px;
+    line-height: 1.2;
+    color: #faebd7
+
+}
+
+
+div.Quote-1 {
+    font-family: "futura-pt", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+pre {
+    font-family: "futura-pt", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+div.main-title {
+    font-family: "futura-pt", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    
+}
+
+.HEADER {  
+    font-family: "futura-pt", sans-serif;
+    font-weight: 800;
+    font-style: normal;
+    letter-spacing: .5px;
+}
